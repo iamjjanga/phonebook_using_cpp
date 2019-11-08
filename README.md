@@ -1,5 +1,7 @@
 2019-1 Sejong Univ. C++ class assignment.
 
+Assuming condition : Good CPU Bad memory
+
 Name. Phonebook  
 Made by. IamJjanga  
 Language. C++  
